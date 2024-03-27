@@ -38,8 +38,8 @@
     height: 200px;
     width: 200px;
     padding: 10px;
-    margin-right: auto;
-    /* border: 1px solid black; */
+    margin:2px;
+    border: 1px solid black;
 }
 .form-group
 {
